@@ -26,7 +26,7 @@
   <a href="#licença-e-autora">Licença e Autora</a>
 </p>
 
-[cover](.github/cover.png?style=flat)
+![cover](.github/cover.png?style=flat)
 
 ## Sobre
 Projeto desenvolvido durante a trilha Impulse Next Level Week #7 da [Rocketseat](https://rocketseat.com.br/). Consiste numa plataforma de envio e recebimento de mensagens em tempo real com autenticação pelo Github, contextualizada para o evento [DoWhile 2021](https://dowhile.io/)
