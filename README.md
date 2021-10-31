@@ -1,5 +1,5 @@
  <p align="center">
-   <a href="#">English</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+   <a href="https://github.com/lorenatoscano/nlw-heat/blob/main/README-en.md">English</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
    <a href="https://github.com/lorenatoscano/nlw-heat/blob/main/README.md">Português (Brasil)</a>
 </p>
 
@@ -29,7 +29,7 @@
 ![cover](.github/cover.png?style=flat)
 
 ## Sobre
-Projeto desenvolvido durante a trilha Impulse Next Level Week #7 da [Rocketseat](https://rocketseat.com.br/). Consiste numa plataforma de envio e recebimento de mensagens em tempo real com autenticação pelo Github, contextualizada para o evento [DoWhile 2021](https://dowhile.io/)
+Projeto desenvolvido durante a trilha Impulse do Next Level Week #7 da [Rocketseat](https://rocketseat.com.br/). Consiste numa plataforma de envio e recebimento de mensagens em tempo real com autenticação pelo Github, contextualizada para o evento [DoWhile 2021](https://dowhile.io/)
 
 ### Acesse os layouts do projeto:
 - [Layout Web](https://www.figma.com/file/OosiXyAUYmnwvTxV9t2xIr/%5BNLW-Heat---Mission%3A-Impulse%5D-DoWhile2021-(Community)?node-id=0%3A1)
